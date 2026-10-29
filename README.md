@@ -64,5 +64,98 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Rindler is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by y-combinator) and added to the network as a stub for full-pipeline profiling.
-- https://maxxwell.dev
+Rindler, operating under the Maxxwell brand, provides a local desktop and CLI tool that manages coding agents. Maxxwell enables users to run multiple coding agents simultaneously, offering features like fleet management, session tracking, and integration with AI runtimes such as Claude and Codex. The platform is free for individuals and offers paid plans for teams, emphasizing privacy by keeping credentials on the user’s machine.
+
+**Areas:** Company · AI · DeveloperTools · OpenSource · Automation
+
+## Rindler on APIs.io
+
+Everything profiled for Rindler is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/maxxwell-dev/](https://apis.io/providers/maxxwell-dev/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Maxxwell API](https://apis.io/apis/maxxwell-dev/maxxwell-api/) — Local desktop and CLI tool API for managing coding agents, fleets, and sessions.
+- [Rindler API](https://apis.io/apis/maxxwell-dev/maxxwell-dev-api/) — Rindler API as documented publicly: 1 operations. Contract generated from the documentation by API Evangelist (2026-10-29); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Rindler API Rules](https://apis.io/rules/maxxwell-dev/maxxwell-dev-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Maxxwell Dev Domain Security](https://apis.io/security/maxxwell-dev/maxxwell-dev-domain-security/)
+- [Maxxwell Dev Vulnerability Disclosure](https://apis.io/security/maxxwell-dev/maxxwell-dev-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://maxxwell.dev)
+- [Documentation](https://docs.maxxwell.dev)
+- [Getting started](https://docs.maxxwell.dev/quickstart)
+- [Pricing](https://maxxwell.dev)
+- [Changelog](https://github.com/rindler-ai/ide-releases/releases/latest)
+- [Blog](https://maxxwell.dev/blog/)
+- [Privacy policy](https://maxxwell.dev/privacy)
+- [GitHub](https://github.com/rindler-ai)
+
+## API Evangelist rating
+
+**Kin Score 39.7** — developing · rubric 0.24.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 35.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 31.6 |
+| Developer ergonomics | 33.3 |
+| Access clarity | 21.1 |
+
+**Agent readiness 16.1** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 19.1** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/maxxwell-dev/](https://apis.io/providers/maxxwell-dev/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Rindler: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/maxxwell-dev/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
